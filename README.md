@@ -20,5 +20,5 @@
 </p>
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=gruvbox">
+ <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=merko">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksapru&layout=compact&hide=html,juypternotebook)](https://github.com/ksapru/github-readme-stats">
