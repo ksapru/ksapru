@@ -20,4 +20,5 @@
 </p>
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=gradient">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksapru&layout=compact)](https://github.com/ksapru/github-readme-stats">
