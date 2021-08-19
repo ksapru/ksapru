@@ -21,4 +21,4 @@
 
  
  <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=merko">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksapru&layout=compact&hide=typescript,html,juypternotebook)](https://github.com/ksapru/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksapru&layout=compact&hide=html,juypter)](https://github.com/ksapru/github-readme-stats">
