@@ -1,6 +1,6 @@
 ### Hi there! I'm Krish 👋
 
- - 🎓 I'm a second-year student at Boston Univeristy looking for an internship to learn and grow!
+ - 🎓 I'm a third-year student at Boston Univeristy looking for an internship to learn and grow!
  - 😓 I thrive in competitive and stressful environments..
  - 🌱 I’m currently learning C++!
  - 👋 Feel free to reach out to me: ksapru@bu.edu
