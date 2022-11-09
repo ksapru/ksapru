@@ -1,8 +1,8 @@
 ### Hi there! I'm Krish 👋
 
- - 🎓 I'm a third-year student at Boston Univeristy and will be interning at Intuit MailChimp as a Software Engineering Intern for Summer 2022!
+ - 🎓 I'm a final year student at Boston Univeristy and former Software Engineering Intern at Intuit MailChimp for Summer 2022!
  - 😓 I thrive in competitive and stressful environments..
- - 🌱 I’m currently learning C++!
+ - 🌱 I’m currently learning AWS CDK and CloudWatch!
  - 👋 Feel free to reach out to me: ksapru@bu.edu
 
 ## 🧰 Languages and Tools:
