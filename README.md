@@ -20,5 +20,3 @@
 </p>
 
  
-[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/ksapru/readme-components)
-
