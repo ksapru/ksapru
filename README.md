@@ -20,5 +20,5 @@
 </p>
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=ksapru&show_icons=true&theme=merko">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksapru&layout=compact&hide=html,juypter)](https://github.com/ksapru/github-readme-stats">
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=22656)](https://github.com/ksapru/readme-components)
+
