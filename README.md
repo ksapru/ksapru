@@ -1,6 +1,6 @@
 ### Hi there! I'm Krish 👋
 
- - 🎓 I'm a final year student at Boston Univeristy and former Software Engineering Intern at Intuit MailChimp for Summer 2022!
+ - 🎓 I'm a final year student at Boston Univeristy and former Software Engineering Intern at Intuit (TurboTax, Quickbooks) for Summer 2022!
  - 😓 I thrive in competitive and stressful environments..
  - 😓 I love solving customer problems.
  - 🌱 I’m currently learning Terraform and IaaC tools!
