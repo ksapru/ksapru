@@ -1,9 +1,8 @@
 ### Hi there! I'm Krish 👋
 
- - 🎓 I'm a final year student at Boston Univeristy and Software Engineer at Intuit (TurboTax, Quickbooks) for Summer 2022!
+ - 🎓 I'm a Software Engineer at Intuit (TurboTax, Quickbooks)  
  - 😓 I thrive in competitive and stressful environments..
  - 😓 I love solving customer problems.
- - 🌱 I’m currently learning Terraform and IaaC tools!
  - 👋 Feel free to reach out to me: ksapru@bu.edu
 
 ## 🧰 Languages and Tools:
