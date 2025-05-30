@@ -3,7 +3,7 @@
  - 🎓 I'm a Software Engineer at Intuit (TurboTax, Quickbooks)  
  - 😓 I thrive in competitive and stressful environments..
  - 😓 I love solving customer problems.
- - 👋 Feel free to reach out to me: ksapru@bu.edu
+ - 👋 Feel free to reach out to me: krish.sapru.th@dartmouth.edu
 
 ## 🧰 Languages and Tools:
 <p align="center"> 
