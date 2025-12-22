@@ -1,8 +1,6 @@
 ### Hi there! I'm Krish 👋
 
- - 🎓 I'm a Software Engineer at Intuit
- - 😓 I thrive in competitive and stressful environments..
- - 😓 I love solving customer problems.
+ - 🎓 I'm a student at Dartmouth College
  - 👋 Feel free to reach out to me: krish.sapru.th@dartmouth.edu
 
 ## 🧰 Languages and Tools:
